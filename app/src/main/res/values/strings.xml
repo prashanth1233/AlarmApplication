@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="start">START ALARM</string>
+    <string name="stop">STOP ALARM</string>
+    <string name="startAt">REPEAT FOR EVERY 20MIN</string>
+    <string name="time">ENTER TIME</string>
+    <string name="stpnotificatiion">STOP NOTIFICATION</string>
+</resources>
